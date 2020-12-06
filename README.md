@@ -34,6 +34,7 @@
 **5. Data files.**
 
   The following data format is used in creating *CollisionSystem* with path to the particle data file:
+  
     ```
     N
     rx ry vx vy radius mass r g b
@@ -42,8 +43,9 @@
     .
     .
     ```
+    
   Where:
-  *N* - number of particles
-  *rx,ry* - position coordinates **between 0 and 1**
-  *vx, vy* - velocity
-  *r,g,b* - contains three integers - red, green, blue values of color
+    -*N* - number of particles
+    -*rx,ry* - position coordinates **between 0 and 1**
+    -*vx, vy* - velocity
+    -*r,g,b* - contains three integers - red, green, blue values of color
