@@ -9,7 +9,7 @@ These simulations are widely used in various fields of life i.e.:
   - Molecular dynamics
   - Robotics
 
-2. This simulation needs to meet model assumption in order to give a proper output data
+2. This simulation needs to meet model assumption in order to give a proper output data.
 - Hard sphere model
 ```
 This is an idealized model of the motion of atoms or molecules in a container.
@@ -20,8 +20,8 @@ The properties of this model are:
 - There are no other forces exerted on the particles
 ```
 
-3. Simulation
+3. Simulation.
 This is an event-driven simulation. All particles move in a straight line at constant speed so we can predict at what time the two particles will collide. 
 Thus, these collision events are added to the **priority queue** of future event ordered by time. As particles collide and change direction, some of the events may become invalidated and priority queue will update it's events to respond to the actual state of particles.
 
-4. Implementation
+4. Implementation.
