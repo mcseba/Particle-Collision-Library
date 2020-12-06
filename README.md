@@ -21,6 +21,7 @@ The properties of this model are:
 ```
 
 3. Simulation.
+
 This is an event-driven simulation. All particles move in a straight line at constant speed so we can predict at what time the two particles will collide. 
 Thus, these collision events are added to the **priority queue** of future event ordered by time. As particles collide and change direction, some of the events may become invalidated and priority queue will update it's events to respond to the actual state of particles.
 
