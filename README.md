@@ -10,7 +10,7 @@
   - Robotics
 
 **2. This simulation needs to meet model assumption in order to give a proper output data.**
-  ***- Hard sphere model***
+  - ***Hard sphere model***
     ```
     This is an idealized model of the motion of atoms or molecules in a container.
     The properties of this model are:
