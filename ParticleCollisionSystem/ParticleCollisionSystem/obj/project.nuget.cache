@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "rDOdzkH1EWhLPVKLDtKqG+PvZuSGsVuAhz5MQ/iQgwfo1FHIB/wix8UVyITTAFpmUOm3pKV39HnCx64cOVEF5g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\sebar\\source\\repos\\Particle-Collision-Library\\ParticleCollisionSystem\\ParticleCollisionSystem\\ParticleCollisionSystem.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sebar\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\sebar\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
