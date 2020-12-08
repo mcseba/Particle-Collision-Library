@@ -26,7 +26,7 @@
   Thus, these collision events are added to the **priority queue** of future event ordered by time. As particles collide and change direction, some of the events may   become invalidated and priority queue will update it's events to respond to the actual state of particles.
 
 **4. Implementation.**
-  - ***PriorityQueue*** - generic data structure of type Event allowing to order collision events by time
+  - ***PriorityQueue*** - generic data structure allowing to order collision events by time
   - ***Particle*** - Data type that represents single particle moving in the unit box
   - ***CollisionSystem*** - provides methods for simulating *N particles* in a box for a *t* time
   - ***Event*** - Data type that represents collision events.
